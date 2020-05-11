@@ -1,0 +1,7 @@
+Zeile löschen 		- STRG + D
+main-Methode		- STRG + Space
+aut. Import	 	- STRG + SHIFT + O
+Hilfe			- STRG + 1
+Zeilen auskomment 	- STRG + SHIFT + C
+Formatter		- STRG + SHIFT + F
+Run As			- ALT + SHIFT + X
