@@ -1,6 +1,7 @@
 # Java-Prog
 Java Programmierung von Steffen Heinzl (1. und 2. Semester)
 
+## 1. Semester
 #### Lektion 1: EVA-Prinzip, Das erste Java-Programm
 #### Lektion 2: Datentypen, Ganzzahlen, Kommazahlen, Characters, Strings
 #### Lektion 3: Eingabe, Bedingte Anweisungen, Verzweigungen
@@ -14,6 +15,8 @@ Java Programmierung von Steffen Heinzl (1. und 2. Semester)
 #### Lektion 11: Mehrdimensionale Arrays, Überladen, Exceptions, Referenztypen als Argumente
 #### Lektion 12: Datenstrukturen: Listen und Bäume
 #### Lektion 13: Packages, Implizite Vererbung, Relationen, Varargs
+
+## 2. Semester
 #### Lektion 14: Unit Tests, Klassenbibliotheken, JUnit 5
 #### Lektion 15: Objektiorientierung, Vererbung, Vererbung Spezialisierung, Vererbung Generalisierung, Abstrakte Klassen, Überschreiben von Methoden, Enumerations
 #### Lektion 16: Mehrfachvererbung, Interfaces, Komposition
