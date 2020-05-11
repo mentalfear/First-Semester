@@ -1,4 +1,4 @@
-package Lektion9;
+package Lektion09;
 
 public class Aufgabe2_Pizza
 {

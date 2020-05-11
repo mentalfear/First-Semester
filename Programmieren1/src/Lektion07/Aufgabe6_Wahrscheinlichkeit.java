@@ -1,4 +1,4 @@
-package Lektion7;
+package Lektion07;
 
 public class Aufgabe6_Wahrscheinlichkeit {
 	

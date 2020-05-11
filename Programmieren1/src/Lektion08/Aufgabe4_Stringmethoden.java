@@ -1,4 +1,4 @@
-package Lektion8;
+package Lektion08;
 
 import java.awt.image.BufferedImage;
 import java.io.File;

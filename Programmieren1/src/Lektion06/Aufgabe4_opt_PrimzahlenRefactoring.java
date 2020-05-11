@@ -1,4 +1,4 @@
-package Lektion6;
+package Lektion06;
 
 public class Aufgabe4_opt_PrimzahlenRefactoring {
 	

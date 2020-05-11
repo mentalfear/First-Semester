@@ -1,4 +1,4 @@
-package Lektion8;
+package Lektion08;
 
 public class Aufgabe2_opt_Parameter {
 

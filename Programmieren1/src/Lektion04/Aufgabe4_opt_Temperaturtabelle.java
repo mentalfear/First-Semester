@@ -1,4 +1,4 @@
-package Lektion4;
+package Lektion04;
 
 public class Aufgabe4_opt_Temperaturtabelle {
 	
