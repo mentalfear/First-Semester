@@ -1,0 +1,5 @@
+package Lektion18;
+
+public enum A2_Words {
+	LEBEWESEN, VATER, MUTTER, FISCH, HUND, AUTO, BALL, TISCH, FERNSEHER, ZEITUNG, KAKTUS, EFEU
+}

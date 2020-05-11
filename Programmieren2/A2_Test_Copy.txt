@@ -1,0 +1,2 @@
+Hallo Welt
+C:/Users/Matte/OneDrive/Studium/Programmieren 2/workspace/UnitTest/A2_Test_Copy.txt
