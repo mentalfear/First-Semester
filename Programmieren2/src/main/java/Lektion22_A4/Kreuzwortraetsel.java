@@ -38,6 +38,17 @@ public class Kreuzwortraetsel {
 		for (String wort : t3)
 			System.out.println(wort);
 		
+		//LAMBDA-Ausdrücke-------------------------------------------
+		System.out.println("--LAMBDA-Ausdruck--");
+		TreeSet<String> t4 = new TreeSet<>((o1,o2) -> {
+			if(o1.length() < o2.length()) return 1;
+			else if(o1.length() > o2.length()) return -1;
+			
+			return o1.compareTo(o2);
+		});
+		t4.addAll(Arrays.asList(alleWoerter));
+		t4.stream().forEach(wort -> System.out.println(wort));
+		
 		
 	}
 
